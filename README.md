@@ -1,30 +1,38 @@
-# Portfolio with resume
+# 🚀 Portfólio - Enzo Bezerra Dutra
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+Este repositório contém o código do meu portfólio pessoal, desenvolvido com foco em apresentação profissional, desempenho e boas práticas de desenvolvimento front-end.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/judocaenzo-5758s-projects/portifolio-enzodutra)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/e4zpwCZElRA)
+O objetivo do projeto é demonstrar minhas habilidades técnicas, organização de código e identidade como desenvolvedor.
 
-## Overview
+🔗 **Acesse o site online:**  
+👉 https://SEU-LINK-DO-NETLIFY-AQUI
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+---
 
-## Deployment
+## 🧑‍💻 Sobre mim
 
-Your project is live at:
+Sou estudante de Desenvolvimento de Sistemas, apaixonado por tecnologia e em constante evolução na área de programação. Busco oportunidade de estágio para aplicar meus conhecimentos, aprender com profissionais experientes e crescer na área de desenvolvimento de software.
 
-**[https://vercel.com/judocaenzo-5758s-projects/portifolio-enzodutra](https://vercel.com/judocaenzo-5758s-projects/portifolio-enzodutra)**
+---
 
-## Build your app
+## 🛠️ Tecnologias utilizadas
 
-Continue building your app on:
+- Next.js  
+- React  
+- TypeScript  
+- Tailwind CSS  
+- Git e GitHub  
+- Netlify (deploy)  
 
-**[https://v0.app/chat/e4zpwCZElRA](https://v0.app/chat/e4zpwCZElRA)**
+---
 
-## How It Works
+## 📂 Estrutura do projeto
 
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+```bash
+├── app
+├── components
+├── public
+├── styles
+├── next.config.mjs
+├── netlify.toml
+└── README.md
