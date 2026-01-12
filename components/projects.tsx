@@ -22,7 +22,7 @@ const projects = [
     title: "Portifólio",
     description: "Meu portifólio completamente personalizado",
     tags: ["Python", "Automação", "Data"],
-    image: "/python-code-terminal-automation-dark-theme.jpg",
+    image: "/portifolio.png",
     github: "https://github.com/Enzo-Dutra",
   },
 ]
