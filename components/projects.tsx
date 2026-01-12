@@ -20,7 +20,7 @@ const projects = [
   },
   {
     title: "Portifólio",
-    description: "Meu portifólio completamente personalizado",
+    description: "Meu portifólio completamente personalizado com meu estilo e gosto pessoal, desenvolvido com Next.js e Tailwind CSS.",
     tags: ["Python", "Automação", "Data"],
     image: "/portifolio.png",
     github: "https://github.com/Enzo-Dutra",
