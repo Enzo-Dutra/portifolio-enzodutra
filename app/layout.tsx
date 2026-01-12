@@ -10,10 +10,6 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Enzo Bezerra Dutra | Desenvolvedor",
   description: "Portfólio de Enzo Bezerra Dutra - Desenvolvedor de Sistemas em busca de oportunidade de estágio.",
-  icons: {
-    icon: "/enzo.jpg",
-    apple: "/enzo.jpg",
-  },
 }
 
 
