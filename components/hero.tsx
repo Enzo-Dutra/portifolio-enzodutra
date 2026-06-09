@@ -9,11 +9,8 @@ export function Hero() {
         <div className="order-2 md:order-1">
           <p className="text-primary font-mono text-sm mb-4">Olá, me chamo</p>
           <h1 className="text-4xl md:text-6xl font-bold text-foreground mb-4 text-balance">Enzo Bezerra Dutra</h1>
-          <h2 className="text-2xl md:text-3xl text-muted-foreground font-medium mb-6">Desenvolvedor de Sistemas</h2>
-          <p className="text-muted-foreground leading-relaxed mb-8 max-w-lg">
-            Busco oportunidade de estágio ou posição júnior na área de Informática. Desejo aplicar conhecimentos em
-            lógica de programação, banco de dados e desenvolvimento mobile, contribuindo com soluções criativas.
-          </p>
+          <h2 className="text-2xl md:text-3xl text-muted-foreground font-medium mb-6">Desenvolvedor de Sistemas e Cloud Computing</h2>
+          <p className="mt-6 text-lg text-muted-foreground max-w-xl">Estagiário de TI na UPD8:, atuando com projetos reais e soluções em nuvem utilizando AWS, com foco em arquitetura, escalabilidade e boas práticas de desenvolvimento.</p>
 
           <div className="flex items-center gap-2 text-muted-foreground mb-8">
             <MapPin className="w-4 h-4" />

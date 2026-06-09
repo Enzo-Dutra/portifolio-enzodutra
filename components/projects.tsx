@@ -32,7 +32,7 @@ export function Projects() {
     <section id="projetos" className="py-24 px-6 bg-card/50">
       <div className="max-w-6xl mx-auto">
         <div className="text-center mb-16">
-          <p className="text-primary font-mono text-sm mb-2">04.</p>
+          <p className="text-primary font-mono text-sm mb-2">05.</p>
           <h2 className="text-3xl md:text-4xl font-bold text-foreground">Projetos</h2>
           <p className="text-muted-foreground mt-4 max-w-2xl mx-auto">
             Alguns projetos desenvolvidos durante meus estudos que ganharam prêmios na categoria de Técnico Integrado ao Ensino Médio. Confira mais detalhes sobre esses e outros

@@ -6,7 +6,7 @@ export function Contact() {
     <section id="contato" className="py-24 px-6">
       <div className="max-w-4xl mx-auto">
         <div className="text-center mb-16">
-          <p className="text-primary font-mono text-sm mb-2">05.</p>
+          <p className="text-primary font-mono text-sm mb-2">06.</p>
           <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-4">Entre em Contato</h2>
           <p className="text-muted-foreground max-w-xl mx-auto">
             Estou em busca de novas oportunidades! Se você tem uma vaga de estágio ou posição júnior disponível, ficarei
